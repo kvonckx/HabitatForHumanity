@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Habitat For Humanity: Peoria</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_login">Employee Login</string>
+
+    <string name="who">Who We Are:</string>
+    <string name="who_content">Habitat for Humanity is a Christian ministry. /nTesting 123... Testing 123... Testing 123... Testing 123... Testing 123... Testing 123... Testing 123... Testing 123... Testing 123... Testing 123... Testing 123... Testing 123... Testing 123... Testing 123... Testing 123...</string>
+    <string name="what">What We Do:</string>
+    <string name="what_content">We build homes for income qualified families. Habitat then sells the home to the partner family with a 20 year interest free mortgage. Habitat for Humanity is not a hand out, but it is a hand up. We seek to help others in our community.</string>
+    <string name="why">Why We Do It:</string>
+    <string name="why_content">We have chosen, as our means of manifesting God\'s love, to build adequate and durable homes with those in need of shelter. And we believe that safe and affordable housing is a basic human right and fundamental component of dignity and long-term well-being for every person on earth.</string>
+
+    <string name="location_choose">Pick a Location:</string>
+    <string name="location_prompt">Choose a Location:</string>
+    <string-array name="location_array">
+        <item>Choose...</item>
+        <item>Main</item>
+        <item>University</item>
+        <item>East Peoria</item>
+    </string-array>
+    <string name="number_main">#</string>
+    <string name="number_university">#</string>
+    <string name="number_ep">#</string>
+    <string name="address_main">804 W. Main Street \nPeoria, IL 61606</string>
+    <string name="address_university">4912 N. University Street \nPeoria, IL 61606</string>
+    <string name="address_ep">110 Carver Lane \nEast Peoria, IL 61611</string>
+</resources>

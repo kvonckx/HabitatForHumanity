@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="16dp">
+
+        <TextView
+            android:id="@+id/who"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/who"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/who_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/who"
+            android:text="@string/who_content"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/what"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/who_content"
+            android:text="@string/what"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:paddingTop="16dp"/>
+
+        <TextView
+            android:id="@+id/what_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/what"
+            android:text="@string/what_content"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/why"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/what_content"
+            android:text="@string/why"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:paddingTop="16dp"/>
+
+        <TextView
+            android:id="@+id/why_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/why"
+            android:text="@string/why_content"
+            android:textSize="18sp" />
+
+        mission
+        vision
+        principles
+
+    </RelativeLayout>
+</ScrollView>
